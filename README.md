@@ -4,12 +4,15 @@ Thanks for being here as I learn to code ✨
 
 #### Excited to grow this list of tools & languages:
 
-![HTML5 Icon](images/html5.png)
-![CSS3 Icon](images/css3.png)
-![JavaScript Icon](images/javaScript.png)
-![SASS Icon](images/sass.png)
 ![Visual Studio Code Icon](images/vscode.png)
 ![Git Icon](images/git.png)
+![HTML5 Icon](images/html5.png)
+![CSS3 Icon](images/css3.png)
+![SASS Icon](images/sass.png)
+![Ruby Icon](images/ruby.png)
+<img src="images/ruby_on_rails.png" alt="Ruby on Rails Icon" width="47" height="47">
+![JavaScript Icon](images/javaScript.png)
+![PostgreSQL Icon](images/postgresql.png)
 
 #### Find me on:
 
